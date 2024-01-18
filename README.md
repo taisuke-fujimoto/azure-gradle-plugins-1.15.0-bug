@@ -1,0 +1,1 @@
+# azure-gradle-plugins-1.15.0-bug
